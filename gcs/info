@@ -1,5 +1,6 @@
 # YAML 1.1
 # Fichero de configuración de paquetes de personalización de Gecos v2
+
 # Nombre del paquete (minÃºsculas-separado-con-guiones)
 name: gecosws-xdg-ruby
 
