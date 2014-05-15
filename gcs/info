@@ -2,6 +2,7 @@
 # Fichero de configuración de paquetes de personalización de Gecos v2
 
 # Nombre del paquete (minÃºsculas-separado-con-guiones)
+
 name: gecosws-xdg-ruby
 # Autor 
 author: David Amian <damian@emergya.com>
