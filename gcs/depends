@@ -3,5 +3,6 @@
 #
 # gnome-terminal
 # nautilus  (>=2.6.10)
+chef
 libxml2-dev
 libxml2

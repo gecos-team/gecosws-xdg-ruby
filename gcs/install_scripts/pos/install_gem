@@ -1,1 +1,1 @@
-/opt/chef/embedded/bin/gem /usr/share/gecosws-xdg-ruby/xdg-ruby-0.1.gem
+/opt/chef/embedded/bin/gem install /usr/share/gecosws-xdg-ruby/xdg-ruby-0.1.gem
