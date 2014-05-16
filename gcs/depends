@@ -3,6 +3,8 @@
 #
 # gnome-terminal
 # nautilus  (>=2.6.10)
+g++
+cmake
 chef
 libxml2-dev
 libxml2
