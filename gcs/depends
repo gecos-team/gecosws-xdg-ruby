@@ -8,3 +8,4 @@ cmake
 chef
 libxml2-dev
 libxml2
+ruby-dev
