@@ -8,4 +8,5 @@ cmake
 chef
 libxml2-dev
 libxml2
+ca-certificates
 ruby-dev
