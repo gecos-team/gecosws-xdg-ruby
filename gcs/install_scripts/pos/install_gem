@@ -1,1 +1,8 @@
+# Install a specific version of libxml-ruby gem
+/opt/chef/embedded/bin/gem install libxml-ruby -v 3.1.0
+
+# Install a specific version of activesupport
+/opt/chef/embedded/bin/gem install activesupport -v 5.2.3
+
+# Install xdg-ruby gem
 /opt/chef/embedded/bin/gem install /usr/share/gecosws-xdg-ruby/xdg-ruby-0.1.gem
